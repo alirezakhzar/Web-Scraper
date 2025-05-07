@@ -1,3 +1,4 @@
+https://sdhm.pw/?inv=2017087 Here’s my link – feel free to check it out, support me, and enjoy the bot experience!ُ THANKS
 Auto Clicker for Web Bonus Button
 This Python script automates clicking a "Get money" button on a web page using Selenium and Microsoft Edge WebDriver. It refreshes the page every 65 seconds to ensure the button is available for the next click.
 Features
